@@ -1,4 +1,4 @@
-Binary Search Tree Database
+# Binary Search Tree Database
 
 A program that implements a simple database system using binary search trees and hash maps.
 
